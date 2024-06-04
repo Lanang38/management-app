@@ -1,0 +1,104 @@
+D:\Final\3\Final\Final\bin\Debug\Final.exe.config
+D:\Final\3\Final\Final\bin\Debug\Final.exe
+D:\Final\3\Final\Final\bin\Debug\Final.pdb
+D:\Final\3\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+D:\Final\3\Final\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+D:\Final\3\Final\Final\obj\Debug\Final.Properties.Resources.resources
+D:\Final\3\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+D:\Final\3\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+D:\Final\3\Final\Final\obj\Debug\Final.exe
+D:\Final\3\Final\Final\obj\Debug\Final.pdb
+D:\Final\3\Final\Final\obj\Debug\Final.Login.resources
+D:\Final\3\Final\Final\obj\Debug\Final.Regis.resources
+D:\Final\3\Final\Final\obj\Debug\Final.View.Dashboard.resources
+D:\Final\3\Final\Final\obj\Debug\Final.View.Main.resources
+D:\Final\3\Final\Final\obj\Debug\Final.View.Barang.resources
+D:\Final\3\Final\Final\obj\Debug\Final.View.Supplier.resources
+D:\Final\3\Final\Final\obj\Debug\Final.View.Transaksi.resources
+D:\Final\3\Final\Final\obj\Debug\Final.View.Users.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.View.Barang.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.View.Dashboard.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.View.Main.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.Login.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.Properties.Resources.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.Regis.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.View.Supplier.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.View.Transaksi.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.View.Users.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\bin\Debug\Final.exe.config
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\bin\Debug\Final.exe
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\bin\Debug\Final.pdb
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\bin\Debug\System.Data.SQLite.dll
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\bin\Debug\System.Data.SQLite.xml
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.csproj.CopyComplete
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.exe
+E:\Kuliah\Pemrograman Lanjut\Final\Final\Final\obj\Debug\Final.pdb
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\bin\Debug\Final.exe.config
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\bin\Debug\Final.exe
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\bin\Debug\Final.pdb
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.View.Barang.resources
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.View.Dashboard.resources
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.View.Main.resources
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.Login.resources
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.Regis.resources
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.View.Supplier.resources
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.View.Transaksi.resources
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.View.Pelanggan.resources
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.csproj.CopyComplete
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.exe
+C:\Users\ASUS\Downloads\New folder\Final\Final\Final Y\Final\Final\obj\Debug\Final.pdb
+E:\Kuliah\Pemrograman Lanjut\Final\Final\bin\Debug\Final.exe.config
+E:\Kuliah\Pemrograman Lanjut\Final\Final\bin\Debug\Final.exe
+E:\Kuliah\Pemrograman Lanjut\Final\Final\bin\Debug\Final.pdb
+E:\Kuliah\Pemrograman Lanjut\Final\Final\bin\Debug\System.Data.SQLite.dll
+E:\Kuliah\Pemrograman Lanjut\Final\Final\bin\Debug\System.Data.SQLite.xml
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.View.Barang.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.View.Dashboard.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.View.Main.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.Login.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.Properties.Resources.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.Regis.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.View.Supplier.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.View.Transaksi.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.View.Pelanggan.resources
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.csproj.CopyComplete
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.exe
+E:\Kuliah\Pemrograman Lanjut\Final\Final\obj\Debug\Final.pdb
+E:\Kuliah\Pemrograman Lanjut\Final\Final\bin\Debug\Dapper.dll
+E:\Kuliah\Pemrograman Lanjut\Final\Final\bin\Debug\Dapper.xml
+D:\Final2\Final\Final\bin\Debug\Final.exe.config
+D:\Final2\Final\Final\bin\Debug\Final.exe
+D:\Final2\Final\Final\bin\Debug\Final.pdb
+D:\Final2\Final\Final\bin\Debug\Dapper.dll
+D:\Final2\Final\Final\bin\Debug\System.Data.SQLite.dll
+D:\Final2\Final\Final\bin\Debug\Dapper.xml
+D:\Final2\Final\Final\bin\Debug\System.Data.SQLite.xml
+D:\Final2\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+D:\Final2\Final\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+D:\Final2\Final\Final\obj\Debug\Final.View.Main.resources
+D:\Final2\Final\Final\obj\Debug\Final.Login.resources
+D:\Final2\Final\Final\obj\Debug\Final.Properties.Resources.resources
+D:\Final2\Final\Final\obj\Debug\Final.Regis.resources
+D:\Final2\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+D:\Final2\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+D:\Final2\Final\Final\obj\Debug\Final.csproj.CopyComplete
+D:\Final2\Final\Final\obj\Debug\Final.exe
+D:\Final2\Final\Final\obj\Debug\Final.pdb
+D:\Final2\Final\Final\obj\Debug\Final.View.FrmBarang.resources
+D:\Final2\Final\Final\obj\Debug\Final.View.FrmDashboard.resources
+D:\Final2\Final\Final\obj\Debug\Final.View.FrmSupplier.resources
+D:\Final2\Final\Final\obj\Debug\Final.View.FrmTransaksi.resources
+D:\Final2\Final\Final\obj\Debug\Final.View.FrmPelanggan.resources
